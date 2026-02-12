@@ -1,0 +1,8 @@
+Install Tailscale on Windows with MSI
+
+Windows 10 or later, Windows Server 2016 or later
+tailscale-setup-1.94.1.exe
+tailscale-setup-full-1.94.1.exe: full installer (all MSI packages are embedded in the self-extracting executable)
+tailscale-setup-1.94.1-amd64.msi: 64-bit x86 (amd64)
+tailscale-setup-1.94.1-arm64.msi: 64-bit ARM64
+tailscale-setup-1.94.1-x86.msi: 32-bit x86
